@@ -46,5 +46,5 @@ To run this project locally, follow these simple steps:
     ```
     npx tsc
 4. **Run the project**
-    ```
+
     Open index.html directly in your web browser, or use a local development server extension like VS Code's Live Server.
